@@ -1,5 +1,5 @@
 body {
-    background-color: white(2, 27, 62);
+    background-color: pink(2, 27, 62);
     color: blue;
     font-size: 150%;
     line-height: 1.4;
@@ -63,7 +63,7 @@ img{
 
 .redacted{
     background-color: rgb(202, 216, 17);
-    color:  black(215, 206, 199);
+    color:  white(215, 206, 199);
 }
 
 .half{
